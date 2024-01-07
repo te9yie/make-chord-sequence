@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/make-chord-sequence/static/css/main.7aa49571.css",
+    "main.js": "/make-chord-sequence/static/js/main.15ae83a4.js",
+    "index.html": "/make-chord-sequence/index.html",
+    "main.7aa49571.css.map": "/make-chord-sequence/static/css/main.7aa49571.css.map",
+    "main.15ae83a4.js.map": "/make-chord-sequence/static/js/main.15ae83a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aa49571.css",
+    "static/js/main.15ae83a4.js"
+  ]
+}
